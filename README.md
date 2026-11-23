@@ -233,17 +233,13 @@
 
 ### 📊 GitHub Analytics
 
-<table>
+<table align="center">
   <tr>
-    <td width="48%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=DangCaoHau2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" alt="GitHub Stats" /></td>
-    <td width="52%"><img width="100%" src="https://streak-stats.demolab.com/?user=DangCaoHau2004&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" /></td>
+    <td width="58%" align="center"><img width="100%" src="https://streak-stats.demolab.com/?user=DangCaoHau2004&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" /></td>
+    <td width="42%" align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangCaoHau2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=6" alt="Top Languages" /></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="35%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangCaoHau2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=6" alt="Top Languages" /></td>
-    <td width="65%"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DangCaoHau2004&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea" alt="Contribution Graph" /></td>
+    <td colspan="2" align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DangCaoHau2004&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea" alt="Contribution Graph" /></td>
   </tr>
 </table>
 
